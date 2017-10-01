@@ -1,9 +1,4 @@
-int redPin = 9;
-int greenPin = 10;
-int bluePin = 11;
-int pin;
-int otherPin_0;
-int otherPin_1;
+int redPin = 9,greenPin = 10,bluePin = 11;
 
 void setup(){
   pinMode(redPin, OUTPUT);
