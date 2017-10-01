@@ -34,4 +34,4 @@
 - Try to think about the following questions if you understand RGBLed series 6 and 7
   - Can you understand the differenes between these two? (Please make references to the statements above)
   - What are the differences between these two and the other one? Which one do you like the best?
-- If you have any thought, let me know
+- Let me know if you have any thought
