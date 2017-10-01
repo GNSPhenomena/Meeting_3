@@ -28,7 +28,7 @@
 
 ### 4. Other Ways to Present a RGB spectrum (Advanced: Open Up Your Mind)
 - Is there other way to present a RGB spectrum?
-- Checkout RGBLed series 6 and 7, and see if you can understand the logic behind. Please Feel free to discuss them with your friends.
+- Checkout RGBLed series 6 and 7, and see if you can understand the logic behind. Please Feel free to discuss them with your friends
   - RGBLed 6.0, 6.1, and 6.2 demonstrate another way to present a RGB spectrum by passing RGB values to a function
   - RGBLed 7.0, 7.1, 7.2, and 7.3 demonstrate another way to present a RGB spectrum by changing the output pins to a function
 - Try to think about the following questions after you understand the logic behind the RGBLed series 6 and 7
