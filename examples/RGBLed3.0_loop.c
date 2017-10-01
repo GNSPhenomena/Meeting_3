@@ -13,13 +13,6 @@ void setup(){
   pinMode(bluePin, OUTPUT);
 }
 
-void ledShow(uint8_t redState, uint8_t greenState, uint8_t blueState)
-{
-  digitalWrite(redPin, redState);
-  digitalWrite(greenPin, greenState);
-  digitalWrite(bluePin, blueState);
-}
-
 void loop(){
   //------------ FOR LOOP ------------
 
