@@ -26,7 +26,7 @@
 - Learn to write codes to present a RGB spectrum
   - Hint: Use loops
 
-### 4. Other Ways to Present a RGB spectrum (Advanced)
+### 4. Other Ways to Present a RGB spectrum (Advanced: Open Up Your Mind)
 - Is there other way to present a RGB spectrum?
 - Checkout RGBLed series 6 and 7, and see if you can understand the logic behind. Please Feel free to discuss them with your friends.
   - RGBLed 6.0, 6.1, and 6.2 demonstrate another way to present a RGB spectrum by passing RGB values to a function
