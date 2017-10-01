@@ -31,7 +31,7 @@
 - Checkout RGBLed series 6 and 7, and see if you can understand the logic behind. Please Feel free to discuss them with your friends.
   - RGBLed 6.0, 6.1, and 6.2 demonstrate another way to present a RGB spectrum by passing RGB values to a function
   - RGBLed 7.0, 7.1, and 7.2 demonstrate another way to present a RGB spectrum by changing the output pins to a function
-- Try to think about the following questions if you understand RGBLed series 6 and 7
+- Try to think about the following questions after you understand the logic behind the RGBLed series 6 and 7
   - Can you understand the differenes between these two? (Please make references to the statements above)
   - What are the differences between these two and the other one? Which one do you like the best?
 - Let me know if you have any thought
