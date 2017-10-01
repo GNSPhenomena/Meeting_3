@@ -46,5 +46,5 @@ void loop(){
     delay(10); // important
     blueV++;
   }
-  while(blueV < 255)
+  while(blueV < 256)
 }
