@@ -28,8 +28,6 @@ void loop(){
     digitalWrite(greenPin, LOW);
     digitalWrite(bluePin, LOW);
     delay(1000);
-    //counterRed INCREASES BY 1
-    counterRed++; // counterRed = counterRed + 1; counterRed += 1;
   }
 
   //------------ WHILE LOOP ------------
