@@ -16,8 +16,7 @@ void writePin(int pin, int otherPin_0, int otherPin_1){
 }
 
 void loop(){
-  for(int i = 0; i<3; i++)
-    if(i==0)  writePin(redPin,greenPin,bluePin);
-    else if(i==1) writePin(greenPin,redPin,bluePin);
-    else if(i==2) writePin(bluePin,redPin,greenPin);
+  writePin(redPin,greenPin,bluePin);
+  writePin(greenPin,redPin,bluePin);
+  writePin(bluePin,redPin,greenPin);
 }
