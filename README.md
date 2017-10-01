@@ -1,15 +1,15 @@
 # Meeting_3
 
-1. Introduction to Arduino 3
+### 1. Introduction to Arduino 3
 - Developing knowledge in Arduino
 
-2. Project to Do
+### 2. Project to Do
 - RGB LED Project
   - Build a circuit with RGB LED
   - Present the S.O.S Distress Signal by using loops
   - Present a RGB spectrum
  
-3. Goals
+### 3. Goals
 - Learn the concept of RGB
 - Learn the construction of a RGB LED
 - Learn to write functions in Arduino
@@ -26,7 +26,7 @@
 - Learn to write codes to present a RGB spectrum
   - Hint: Use loops
 
-4. Other Ways to Present a RGB spectrum (Advanced)
+### 4. Other Ways to Present a RGB spectrum (Advanced)
 - Is there other way to present a RGB spectrum?
 - Checkout RGBLed series 6 and 7, and see if you can understand the logic behind. Please Feel free to discuss them with your friends.
   - RGBLed 6.0, 6.1, and 6.2 demonstrate another way to present a RGB spectrum by passing RGB values to a function
