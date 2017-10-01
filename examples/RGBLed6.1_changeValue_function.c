@@ -2,10 +2,6 @@
 int redPin = 9;
 int greenPin = 10;
 int bluePin = 11;
-//------------ DEFINE VALUE VARS ------------
-int blueV;
-int redV;
-int greenV;
 
 void setup(){
   pinMode(redPin, OUTPUT);
