@@ -10,6 +10,7 @@
   - Present a RGB spectrum
  
 ### 3. Goals
+- Review how to define a variable
 - Learn the concept of RGB
 - Learn the construction of a RGB LED
 - Learn to write functions in Arduino
