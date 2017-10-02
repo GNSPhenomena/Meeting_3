@@ -5,7 +5,7 @@ int bluePin = 11;
 //------------ DEFINE LOOP VARS ------------
 int counterRed = 0;
 int counterGreen = 0;
-int counterblue = 0;
+int counterBlue = 0;
 
 void setup(){
   pinMode(redPin, OUTPUT);
